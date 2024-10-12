@@ -1,8 +1,8 @@
 #!/bin/bash
 
 service="campus"  # 可修改为实际的服务提供商，如 chinanet、chinaunicom 或留空表示校园网
-username="12024244830"  # 修改为实际用户名
-password="Fengjiadong.711"  # 修改为实际密码
+username="120********"  # 修改为实际用户名
+password="************"  # 修改为实际密码
 retry_limit=3  # 重试次数
 wait_time=60  # 等待时间（单位：秒）
 
